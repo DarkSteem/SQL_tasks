@@ -1,8 +1,8 @@
 --select * from battles;
-drop table outcomes;
-drop table ships;
-drop table classes;
-drop table battles;
+-- drop table outcomes;
+-- drop table ships;
+-- drop table classes;
+-- drop table battles;
 
 CREATE TABLE Battles (
 	name varchar (20) NOT NULL ,
